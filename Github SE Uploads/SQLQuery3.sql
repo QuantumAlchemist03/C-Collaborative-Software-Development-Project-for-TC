@@ -1,0 +1,6 @@
+CREATE TABLE DigitalContent (
+    ContentID INT PRIMARY KEY IDENTITY(1,1),
+    EventID INT FOREIGN KEY REFERENCES Events(EventID),
+    FileName NVARCHAR(255),
+    FilePath NVARCHAR(500)
+);

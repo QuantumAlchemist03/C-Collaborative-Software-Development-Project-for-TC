@@ -1,0 +1,75 @@
+Here is an Entity-Relationship Diagram (ERD) based on the use case diagram you provided:
+
+### Entities:
+1. **Member**
+   - Attributes: MemberID, Name, Email, Password, PersonalInformation
+   - Relationships: 
+     - LogsIn (1..1) to MembersOnlyArea
+     - Views (0..*) DigitalContentModules
+     - Views (0..*) DashboardOfBenefits
+     - Views (0..1) PersonalInformation
+     - Views (0..*) EventSuggestions
+     - Accesses (0..*) DigitalConnectionsBoard
+     - Views (0..*) MemberDocuments
+     - Chats (0..*) with OtherMembers
+
+2. **Administrator**
+   - Attributes: AdminID, Name, Email, Password
+   - Relationships:
+     - Adds (0..*) Members
+     - Differentiates (0..*) MembershipTypes
+     - Searches (0..*) MembersAndEvents
+     - Searches (0..*) SpecificEventsTimePeriods
+     - Authorizes (0..*) NonMemberProfiles
+
+3. **Non-Member**
+   - Attributes: NonMemberID, Name, Email
+   - Relationships:
+     - ExpressesInterest (0..1) in Membership
+
+4. **DigitalContentModule**
+   - Attributes: ModuleID, Title, Description, Availability
+   - Relationships:
+     - BookedBy (0..*) Members
+
+5. **DashboardOfBenefits**
+   - Attributes: DashboardID, BenefitsList
+   - Relationships:
+     - ViewedBy (0..*) Members
+
+6. **EventSuggestion**
+   - Attributes: EventID, EventDetails
+   - Relationships:
+     - SuggestedTo (0..*) Members
+
+7. **DigitalConnectionsBoard**
+   - Attributes: BoardID, ConnectionDetails
+   - Relationships:
+     - AccessedBy (0..*) Members
+
+8. **MemberDocument**
+   - Attributes: DocumentID, DocumentDetails
+   - Relationships:
+     - ViewedBy (0..*) Members
+
+9. **Chat**
+   - Attributes: ChatID, MessageContent, Timestamp
+   - Relationships:
+     - Between (0..*) Members
+
+10. **MembershipType**
+    - Attributes: TypeID, TypeName, TypeDetails
+    - Relationships:
+      - DifferentiatedBy (0..*) Administrators
+
+11. **Event**
+    - Attributes: EventID, EventName, EventDate, EventDetails
+    - Relationships:
+      - SearchedBy (0..*) Administrators
+
+12. **NonMemberProfile**
+    - Attributes: ProfileID, ProfileDetails
+    - Relationships:
+      - AuthorizedBy (0..*) Administrators
+
+Would you like a visual representation or further details on any of these entities and relationships?

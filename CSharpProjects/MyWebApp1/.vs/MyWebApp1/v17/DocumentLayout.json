@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\mywebapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:mywebapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\mywebapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:mywebapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALIF\\AppData\\Local\\Temp\\59cf35ba-8870-4d86-8d34-c213b5f1c0d3_LoggerProject.zip.LoggerProject.zip\\LoggerProject\\LoggerProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\wwwroot\\css1\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:wwwroot\\css1\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|c:\\users\\alif\\onedrive - anglia ruskin university\\software engineering\\assignment documents\\csharpprojects\\mywebapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05160FAE-364E-4EC1-B69F-36DE2D29FA8E}|MyWebApp1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWebApp1",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\MyWebApp1.csproj",
+              "RelativeDocumentMoniker": "MyWebApp1.csproj",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\MyWebApp1.csproj",
+              "RelativeToolTip": "MyWebApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T17:10:10.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALIF\\AppData\\Local\\Temp\\59cf35ba-8870-4d86-8d34-c213b5f1c0d3_LoggerProject.zip.LoggerProject.zip\\LoggerProject\\LoggerProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\59cf35ba-8870-4d86-8d34-c213b5f1c0d3_LoggerProject.zip.LoggerProject.zip\\LoggerProject\\LoggerProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ALIF\\AppData\\Local\\Temp\\59cf35ba-8870-4d86-8d34-c213b5f1c0d3_LoggerProject.zip.LoggerProject.zip\\LoggerProject\\LoggerProject\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\59cf35ba-8870-4d86-8d34-c213b5f1c0d3_LoggerProject.zip.LoggerProject.zip\\LoggerProject\\LoggerProject\\Program.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:42:52.072Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyWebApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\MyWebApp1.csproj",
+              "RelativeDocumentMoniker": "MyWebApp1.csproj",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\MyWebApp1.csproj",
+              "RelativeToolTip": "MyWebApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T17:10:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:10:33.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T17:10:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\wwwroot\\css1\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css1\\style.css",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\wwwroot\\css1\\style.css",
+              "RelativeToolTip": "wwwroot\\css1\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T17:08:53.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homepage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Views\\Homepage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homepage.cshtml",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Views\\Homepage.cshtml",
+              "RelativeToolTip": "Views\\Homepage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T17:06:47.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Views\\Login.cshtml",
+              "RelativeToolTip": "Views\\Login.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T17:05:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "Controllers\\HomeController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:04:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ALIF\\OneDrive - Anglia Ruskin University\\Software Engineering\\Assignment Documents\\CSharpProjects\\MyWebApp1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:02:08.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
